@@ -1,0 +1,21 @@
+*, *:after, *:before {
+	box-sizing: border-box;
+}
+body {
+    margin: 0;
+	font-family: Calibri, Arial, sans-serif;
+}
+.container {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+/*Шапка сайта*/
+.header {
+	
+}
+.menu ul li a {
+    color: darkblue;
+    background: yellow;
+    font-size: 45px;
+}
+/*Услуги*/
